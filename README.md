@@ -118,9 +118,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Please use this program to plot orbits as much as you like!
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,10 +129,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Plots an orbit
+- [ ] Plot other orbits
+- [ ] Add planets
+    - [ ] Move them maybe
 
 See the [open issues](https://github.com/99cone99/OrbitSim/issues) for a full list of proposed features (and known issues).
 
@@ -155,16 +155,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
