@@ -31,11 +31,7 @@
   <p align="center">
     A small and simple program that plots out an orbit, my first ever actual program.
     <br />
-    <a href="https://github.com/99cone99/OrbitSim"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/99cone99/OrbitSim">View Demo</a>
-    ·
     <a href="https://github.com/99cone99/OrbitSim/issues">Report Bug</a>
     ·
     <a href="https://github.com/99cone99/OrbitSim/issues">Request Feature</a>
