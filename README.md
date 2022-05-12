@@ -160,23 +160,11 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@99cone99](https://twitter.com/99cone99) - dbaker99c99@hotmail.com
+Daniel - [@99cone99](https://twitter.com/99cone99) - dbaker99c99@hotmail.com
 
 Project Link: [https://github.com/99cone99/OrbitSim](https://github.com/99cone99/OrbitSim)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
